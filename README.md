@@ -1,2 +1,2 @@
 # WordSearch
-WordSearch Game - Akil is very cool.
+WordSearch Game - Current Net Worth $100,356.
